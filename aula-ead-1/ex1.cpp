@@ -1,7 +1,6 @@
 #include <stdio.h>
 
-int main()
-{
+int main() {
     int x, y;
     printf("Digite os valores dos dois inteiros: ");
     scanf("%d %d", &x, &y);
