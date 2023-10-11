@@ -17,20 +17,11 @@ int main(void) {
 
     dia = dias(d);
 
-    if (dia == 0)
-        printf("Domingo\n");
-    else if (dia == 1)
-        printf("Segunda-feira\n");
-    else if (dia == 2)
-        printf("Terca-feira\n");
-    else if (dia == 3)
-        printf("Quarta-feira\n");
-    else if (dia == 4)
-        printf("Quinta-feira\n");
-    else if (dia == 5)
-        printf("Sexta-feira\n");
-    else if (dia == 6)
-        printf("Sabado\n");
+    char *dias[] = {"Domingo",      "Segunda-feira", "Terca-feira",
+                    "Quarta-feira", "Quinta-feira",  "Sexta-feira",
+                    "Sabado"};
+
+    printf("%s\n", dias[dia]);
 
     return 0;
 }
