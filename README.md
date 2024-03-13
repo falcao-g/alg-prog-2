@@ -9,7 +9,7 @@
 
 - **Disciplina**: Algoritmos e Programação II
 - **Período**: 2023/2
-- **Professora**: [Luciana Montera Cheung](http://buscatextual.cnpq.br/buscatextual/visualizacv.do;jsessionid=EC52B0E5B44BE664E785E8A7D83286C2.buscatextual_0)
+- **Professora**: [Luciana Montera Cheung](http://lattes.cnpq.br/1092296906422727)
 - **Curso**: Ciência da Computação
 - **Universidade**: Universidade Federal de Mato Grosso do Sul ([UFMS](https://www.ufms.br/))
 
